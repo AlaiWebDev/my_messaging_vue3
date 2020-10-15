@@ -1,0 +1,71 @@
+[
+
+{"name":"chat","data":
+[
+{"ID":"70","pseudo":"Titi","messages":"Bonjour &agrave; tous et merci pour votre pr&eacute;sence","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"1"},
+{"ID":"71","pseudo":"momo","messages":"Bonjour &agrave; tous et merci pour votre pr&eacute;sence","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"0"},
+{"ID":"72","pseudo":"Flexboy","messages":"Bonjour &agrave; tous et merci pour votre pr&eacute;sence","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"0"},
+{"ID":"73","pseudo":"AlainWebDev","messages":"Bonjour &agrave; tous et merci pour votre pr&eacute;sence","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"1"},
+{"ID":"74","pseudo":"Titi","messages":"Je suis content","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"1"},
+{"ID":"75","pseudo":"momo","messages":"Je suis content","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"0"},
+{"ID":"76","pseudo":"Flexboy","messages":"Je suis content","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"0"},
+{"ID":"77","pseudo":"AlainWebDev","messages":"Je suis content","dates":"mardi 15 septembre 2020 11h37","exped":"Healy","checked":"1"},
+{"ID":"78","pseudo":"Healy","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"0"},
+{"ID":"79","pseudo":"Titi","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"1"},
+{"ID":"80","pseudo":"momo","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"0"},
+{"ID":"81","pseudo":"Flexboy","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"0"},
+{"ID":"82","pseudo":"AlainWebDev","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"1"},
+{"ID":"83","pseudo":"toto","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"0"},
+{"ID":"84","pseudo":"alain","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"1"},
+{"ID":"85","pseudo":"paul","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"0"},
+{"ID":"86","pseudo":"dede","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"0"},
+{"ID":"87","pseudo":"dodo","messages":"Bonjour &agrave; tous","dates":"samedi 19 septembre 2020 21h39","exped":"eric","checked":"0"},
+{"ID":"88","pseudo":"Healy","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"0"},
+{"ID":"89","pseudo":"Titi","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"1"},
+{"ID":"90","pseudo":"momo","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"0"},
+{"ID":"91","pseudo":"Flexboy","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"0"},
+{"ID":"92","pseudo":"AlainWebDev","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"1"},
+{"ID":"93","pseudo":"toto","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"0"},
+{"ID":"94","pseudo":"alain","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"1"},
+{"ID":"95","pseudo":"paul","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"0"},
+{"ID":"96","pseudo":"dede","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"0"},
+{"ID":"97","pseudo":"dodo","messages":"Et voici encore un message pour tout le monde","dates":"samedi 19 septembre 2020 01h11","exped":"eric","checked":"0"},
+{"ID":"98","pseudo":"Titi","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"1"},
+{"ID":"99","pseudo":"momo","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"0"},
+{"ID":"100","pseudo":"Flexboy","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"0"},
+{"ID":"101","pseudo":"AlainWebDev","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"1"},
+{"ID":"102","pseudo":"toto","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"0"},
+{"ID":"103","pseudo":"alain","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"1"},
+{"ID":"104","pseudo":"paul","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"0"},
+{"ID":"105","pseudo":"eric","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"1"},
+{"ID":"106","pseudo":"dede","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"0"},
+{"ID":"107","pseudo":"dodo","messages":"Et un troisi&egrave;me message","dates":"samedi 19 septembre 2020 01h12","exped":"Healy","checked":"0"},
+{"ID":"108","pseudo":"Healy","messages":"testgetvariable","dates":"lundi 21 septembre 2020 11h59","exped":"AlainWebDev","checked":"0"},
+{"ID":"109","pseudo":"Healy","messages":"encore une fois","dates":"lundi 21 septembre 2020 11h59","exped":"AlainWebDev","checked":"0"},
+{"ID":"110","pseudo":"Healy","messages":"test 3eme et derni&egrave;re fois","dates":"lundi 21 septembre 2020 12h13","exped":"AlainWebDev","checked":"0"},
+{"ID":"111","pseudo":"eric","messages":"Et le message pour eric","dates":"lundi 21 septembre 2020 12h13","exped":"AlainWebDev","checked":"1"},
+{"ID":"112","pseudo":"Healy","messages":"coucou","dates":"lundi 21 septembre 2020 12h23","exped":"AlainWebDev","checked":"0"},
+{"ID":"113","pseudo":"Titi","messages":"et re coucou","dates":"lundi 21 septembre 2020 12h23","exped":"AlainWebDev","checked":"1"},
+{"ID":"114","pseudo":"momo","messages":"et re coucou","dates":"lundi 21 septembre 2020 12h23","exped":"AlainWebDev","checked":"0"},
+{"ID":"115","pseudo":"Flexboy","messages":"et re coucou","dates":"lundi 21 septembre 2020 12h23","exped":"AlainWebDev","checked":"0"},
+{"ID":"116","pseudo":"Healy","messages":"hello","dates":"jeudi 24 septembre 2020 08h59","exped":"AlainWebDev","checked":"0"},
+{"ID":"117","pseudo":"Healy","messages":"salut","dates":"jeudi 24 septembre 2020 09h00","exped":"AlainWebDev","checked":"0"},
+{"ID":"118","pseudo":"eric","messages":"re coucou","dates":"vendredi 02 octobre 2020 15h37","exped":"AlainWebDev","checked":"0"},
+{"ID":"119","pseudo":"AlainWebDev","messages":"coucou","dates":"mardi 06 octobre 2020 10h34","exped":"titi","checked":"1"},
+{"ID":"120","pseudo":"AlainWebDev","messages":"coucou","dates":"mardi 06 octobre 2020 10h37","exped":"titi","checked":"1"},
+{"ID":"121","pseudo":"AlainWebDev","messages":"coucou","dates":"mardi 06 octobre 2020 10h42","exped":"titi","checked":"1"},
+{"ID":"122","pseudo":"eric","messages":"salut eric","dates":"mardi 06 octobre 2020 10h42","exped":"titi","checked":"0"},
+{"ID":"123","pseudo":"Healy","messages":"salut healy","dates":"mardi 06 octobre 2020 10h45","exped":"titi","checked":"0"}
+]
+}
+,{"type":"table","name":"registration","database":"dwwm20061_chat","data":
+[
+{"ID":"82","nom":"MARTIN","prenom":"Jacques","pseudo":"Healy","email":"alain.orluk@free.fr","pwd":"Healy","types":"1","register_date":""},
+{"ID":"86","nom":"ORLUK","prenom":"Alain","pseudo":"AlainWebDev","email":"alainwebdev@free.fr","pwd":"AlainWebDev","types":"0","register_date":""},
+{"ID":"95","nom":"LAMINE","prenom":"ADDAR","pseudo":"Flexboy","email":"Flexboy@free.fr","pwd":"Flexboy","types":"1","register_date":"mardi 06 octobre 2020 11h36"},
+{"ID":"104","nom":"TITI","prenom":"Titi","pseudo":"titi","email":"titi@free.fr","pwd":"titi","types":"1","register_date":"mardi 06 octobre 2020 16h12"},
+{"ID":"105","nom":"TOTO","prenom":"Toto","pseudo":"toto","email":"toto@free.fr","pwd":"toto","types":"1","register_date":"mardi 06 octobre 2020 16h12"},
+{"ID":"106","nom":"TETE","prenom":"Tete","pseudo":"tete","email":"tete@free.fr","pwd":"tete","types":"1","register_date":"mardi 06 octobre 2020 16h13"}
+]
+}
+]
